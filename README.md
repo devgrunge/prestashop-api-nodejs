@@ -1,6 +1,4 @@
-# prestashop api nodejs
-## Prestashop API NodeJS
-### API REST for Prestashop with NodeJS.
+# Prestashop API REST with nodejs
 
 ## Description
 This API REST is developed using NodeJS to access Prestashop basic information (customers, products and orders).
